@@ -1,0 +1,16 @@
+Thu Feb 10 18:19:21 CST 2011
+
+    * Version: 1.5.8
+    * Author: NAKAMURA, Hiroshi a.k.a. NaHi <nahi@ruby-lang.org> 
+    * License:  http://www.ruby-lang.org/en/LICENSE.txt
+    * Release Note: http://dev.ctor.org/doc/soap4r/RELEASE_en.html
+    * RAA: http://raa.ruby-lang.org/project/soap4r
+
+
+Upgrade to Version: 1.6.0
+
+    Author: Rob Ortiz
+    email: copremesis@yahoo.com
+    Notes: Modified to be compatible with ruby 1.9.2. Removed errors and warnings. Default encoding is set to 'U'
+    
+    
