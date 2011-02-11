@@ -12,5 +12,8 @@ Upgrade to Version: 1.6.0
     Author: Rob Ortiz
     email: copremesis@yahoo.com
     Notes: Modified to be compatible with ruby 1.9.2. Removed errors and warnings. Default encoding is set to 'U'
+           The work here was inspired by http://railsforum.com/viewtopic.php?id=41231 ... I didn't feel like registering
+           or I would have posted this git to the forum ... thanks for all the hard work ... I'm just making it easy for the
+           next guy who finds a need for this gem.
     
     
